@@ -20,9 +20,8 @@ Cuando estás picando código, modelando o redactando informes técnicos, las ve
 * **Modo Transparente:** Pulsa `Ctrl+T` para volver la terminal translúcida y poder tomar notas mientras lees documentación o ves un modelo 3D de fondo.
 
 ## 📂 Estructura del Repositorio
-
-* 📁 **`CAPTURAS/`**: Galería visual del proyecto. Incluye capturas de pantalla de la interfaz, el modo Matrix y los comandos CLI en funcionamiento.
-* 📁 **`EJECUTABLE/`**: Contiene el programa compilado (`.exe`) listo para descargar y usar en Windows, sin necesidad de instalar Python.
+* 📁 **`CODE/`**: Contiene el codigo en python listo para descargar, editar y/o usar.
+* 📁 **`PROGRAMA/`**: Contiene el programa compilado (`.exe`) listo para descargar y usar en Windows, sin necesidad de instalar Python.
 * 📄 **`notas_de_pantalla.py`**: El código fuente principal de la terminal.
 * 📄 **`app_icon.ico`**: El icono nativo de la aplicación necesario para la compilación.
 
