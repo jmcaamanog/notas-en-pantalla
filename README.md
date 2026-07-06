@@ -5,7 +5,7 @@
 ![psutil](https://img.shields.io/badge/System-psutil-yellow.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-(Ingeniero de Procesos_JMC) Herramienta de escritorio ligera diseñada para la toma de notas en entornos de alta concentración. Presenta una interfaz de terminal inmersiva (estilo retro/ciberpunk) enfocada en evitar distracciones, incorporando herramientas de productividad, monitorización real del hardware y protocolos de cifrado para mantener la información local segura.
+(Arquitecto Técnico_JMC) Herramienta de escritorio ligera diseñada para la toma de notas en entornos de alta concentración. Presenta una interfaz de terminal inmersiva (estilo retro/ciberpunk) enfocada en evitar distracciones, incorporando herramientas de productividad, monitorización real del hardware y protocolos de cifrado para mantener la información local segura.
 
 ## 🚀 La Filosofía de la Herramienta (Fricción Cero)
 
